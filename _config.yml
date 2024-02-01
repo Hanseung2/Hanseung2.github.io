@@ -271,3 +271,6 @@ defaults:
       show_date: true
 
 
+# plugins
+plugins:
+  - jemoji
