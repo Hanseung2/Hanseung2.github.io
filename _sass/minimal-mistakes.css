@@ -840,7 +840,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  font-family: "pixel";
 }
 
 pre {
@@ -2656,7 +2656,7 @@ figure.highlight {
   margin-bottom: 1em;
   background: #263238;
   color: #eeffff;
-  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  font-family: "pixel";
   font-size: 0.75em;
   line-height: 1.8;
   border-radius: 4px;
@@ -3595,7 +3595,7 @@ body {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: 0.8em;
-  background: #95878761;
+  background: #fafafa;
   border-radius: 4px;
 }
 .page__content :not(pre) > code::before, .page__content :not(pre) > code::after {
@@ -4044,7 +4044,7 @@ body {
   margin: 1.414em 0 0.5em;
   padding-bottom: 0.5em;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0.2);
+  color: red;
   border-bottom: 1px solid #f2f3f3;
 }
 .archive__subtitle + .list__item .archive__item-title {
@@ -4439,7 +4439,7 @@ body {
   .sidebar {
     float: left;
     width: calc(110px - 1em);
-    opacity: 0.75;
+    opacity: 1;
     transition: opacity 0.2s ease-in-out;
   }
   .sidebar:hover {
@@ -4550,8 +4550,9 @@ body {
   }
 }
 .author__avatar img {
-  max-width: 110px;
-  border-radius: 50%;
+  max-width: 175px;
+  max-height: 175px;
+  border-radius: 15%;
 }
 @media (min-width: 64em) {
   .author__avatar img {
@@ -4561,7 +4562,7 @@ body {
 }
 
 .author__content {
-  
+  font-family: "pixel";
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
@@ -4592,7 +4593,7 @@ body {
 }
 
 .sidebar .author__name {
-  font-family: -apple-system, BlinkMacSystemFont, "pixel", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "pixel";
   font-size: 1em;
 }
 
@@ -4979,6 +4980,12 @@ body {
 @font-face {
   font-family: "BMJUA";
   src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "pixel";
+  src: url("https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css") format("woff");
   font-weight: normal;
   font-style: normal;
 }/*# sourceMappingURL=minimal-mistakes.css.map */
