@@ -4561,6 +4561,7 @@ body {
 }
 
 .author__content {
+  
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
@@ -4591,7 +4592,7 @@ body {
 }
 
 .sidebar .author__name {
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "pixel", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 1em;
 }
 
