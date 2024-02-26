@@ -1,0 +1,41 @@
+---
+title : "About"
+permalink: /about/
+layout : single
+author_profile: true
+sidebar_main: true
+---
+
+
+
+
+<br/>
+<br/>
+
+# <center> Profile </center>
+
+<br/>
+
+- Sejong univ.  - Department of Computer Engineering (2019.03 ~ )
+
+- 5th Air Mobility Wing (2020.01 ~ 2021.10)
+
+<br/><br/>
+
+# <center> Recent Interests </center>
+
+- Web Backend
+
+- Spring
+
+<br/><br/>
+
+# <center> Tech Stack </center>
+
+# Familiar
+
+- C, C#, Python, Unix, HTML, CSS
+
+# Studying
+
+- Spring, Java, Git
