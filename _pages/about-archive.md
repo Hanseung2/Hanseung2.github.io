@@ -18,7 +18,6 @@ sidebar_main: true
 
 - Sejong univ.  - Department of Computer Engineering (2019.03 ~ )
 
-- 5th Air Mobility Wing (2020.01 ~ 2021.10)
 
 <br/><br/>
 
