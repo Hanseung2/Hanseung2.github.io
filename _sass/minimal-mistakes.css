@@ -2034,6 +2034,7 @@ blockquote.notice--danger {
   padding: 0;
   list-style-type: none;
   font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  justify-content: center;
 }
 .pagination li {
   display: block;
