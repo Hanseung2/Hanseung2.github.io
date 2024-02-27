@@ -3561,10 +3561,6 @@ body {
   /* paragraph indents */
   /* blockquote citations */
 }
-.page__content h2 {
-  padding-bottom: 0.5em;
-  border-bottom: 1px solid #f2f3f3;
-}
 .page__content h1 .header-link, .page__content h2 .header-link, .page__content h3 .header-link, .page__content h4 .header-link, .page__content h5 .header-link, .page__content h6 .header-link {
   position: relative;
   left: 0.5em;
