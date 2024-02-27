@@ -727,7 +727,7 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-weight: bold;
 }
 
@@ -753,7 +753,7 @@ h4 {
 }
 
 h5 {
-  font-size: 1.em;
+  font-size: 1em;
 }
 
 h6 {
@@ -810,7 +810,6 @@ blockquote {
   margin: 2em 1em 2em 0;
   padding-left: 1em;
   padding-right: 1em;
-  font-style: italic;
   border-left: 0.25em solid rgba(0, 0, 0, 0);
 }
 blockquote cite {
@@ -1042,7 +1041,7 @@ button,
 select,
 textarea {
   box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 
 label {
@@ -1398,7 +1397,7 @@ th {
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.75em;
   font-weight: bold;
   text-align: center;
@@ -1899,7 +1898,7 @@ blockquote.notice--danger {
   max-width: 100%;
   display: flex;
   justify-content: space-between;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 .masthead__inner-wrap::after {
   clear: both;
@@ -1977,7 +1976,7 @@ blockquote.notice--danger {
   max-width: 100%;
   padding-left: 1em;
   padding-right: 1em;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   animation: intro 0.3s both;
   animation-delay: 0.3s;
 }
@@ -2034,7 +2033,7 @@ blockquote.notice--danger {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 .pagination li {
   display: block;
@@ -2045,7 +2044,7 @@ blockquote.notice--danger {
   display: block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
   line-height: 1.5;
@@ -2083,7 +2082,7 @@ blockquote.notice--danger {
   padding: 1em 2em;
   float: left;
   width: 50%;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 1em;
   font-weight: bold;
   text-align: center;
@@ -2366,7 +2365,7 @@ blockquote.notice--danger {
 .nav__title {
   margin: 0;
   padding: 0.5rem 0.75rem;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 1em;
   font-weight: bold;
 }
@@ -2375,7 +2374,7 @@ blockquote.notice--danger {
   display: block;
   margin: 0.5rem 0;
   padding: 0.25rem 0;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.75em;
   font-weight: bold;
   text-transform: uppercase;
@@ -2386,7 +2385,7 @@ blockquote.notice--danger {
      Table of contents navigation
      ========================================================================== */
 .toc {
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   color: #7a8288;
   background-color: #fff;
   border: 1px solid #f2f3f3;
@@ -2511,7 +2510,7 @@ blockquote.notice--danger {
   display: inline-block;
   padding-top: 5px;
   padding-bottom: 5px;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.75em;
   text-transform: uppercase;
 }
@@ -3028,7 +3027,7 @@ body:hover .visually-hidden button {
   position: fixed;
   z-index: 20;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   white-space: nowrap;
 }
 
@@ -3595,7 +3594,7 @@ body {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: 0.8em;
-  background: #fafafa;
+  background: rgba(47, 39, 39, 0.3411764706);
   border-radius: 4px;
 }
 .page__content :not(pre) > code::before, .page__content :not(pre) > code::after {
@@ -3604,12 +3603,12 @@ body {
 }
 .page__content dt {
   margin-top: 1em;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-weight: bold;
 }
 .page__content dd {
   margin-left: 1em;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.75em;
 }
 .page__content .small {
@@ -3744,7 +3743,7 @@ body {
 .page__meta, .comment__date {
   margin-top: 2em;
   color: rgba(255, 255, 255, 0.2);
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.75em;
 }
 .page__meta p, .comment__date p {
@@ -4053,7 +4052,7 @@ body {
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -4468,11 +4467,11 @@ body {
 .sidebar h5,
 .sidebar h6 {
   margin-bottom: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 .sidebar p,
 .sidebar li {
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.75em;
   line-height: 1.5;
 }
@@ -4593,7 +4592,7 @@ body {
 }
 
 .sidebar .author__name {
-  font-family: "pixel";
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 1em;
 }
 
@@ -4611,7 +4610,7 @@ body {
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: -apple-system, BlinkMacSystemFont, "MaplestoryOTFBold", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   z-index: 20;
   cursor: pointer;
 }
@@ -4986,6 +4985,12 @@ body {
 @font-face {
   font-family: "pixel";
   src: url("https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NanumSquareNeo-Variable";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }/*# sourceMappingURL=minimal-mistakes.css.map */
