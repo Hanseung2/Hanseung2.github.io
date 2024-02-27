@@ -2018,7 +2018,7 @@ blockquote.notice--danger {
      ========================================================================== */
 .pagination {
   clear: both;
-  float: left;
+  float: center;
   margin-top: 1em;
   padding-top: 1em;
   width: 100%;
@@ -4047,7 +4047,8 @@ body {
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
   font-family: -apple-system, BlinkMacSystemFont, "NanumSquareNeo-Variable", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   line-height: initial;
   overflow: hidden;
@@ -4195,7 +4196,7 @@ body {
 }
 .grid__item .archive__item-title {
   margin-top: 0.5em;
-  font-size: 1em;
+  font-size: 1.2em;
 }
 .grid__item .archive__item-excerpt {
   display: none;
