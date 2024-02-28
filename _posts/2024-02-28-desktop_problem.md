@@ -17,7 +17,7 @@ categories: Git
 
 ### 원인
 
-구글링해보니 Jekyll blog에서 사용되는 liquid는 `{{` 와 `}}` 를 escape 문자로 사용하여 2024-02-27-java03.md의 2차원 배열 코드에 있는 `{{` 와`}}` 이 에러 메시지를 유발했다.
+구글링해보니 Jekyll blog에서 사용되는 liquid는 `{% raw %}{{{% endraw %}` 와 `{% raw %}}}{% endraw %}` 를 escape 문자로 사용하여 2024-02-27-java03.md의 2차원 배열 코드에 있는 `{% raw %}{{{% endraw %}` 와`{% raw %}}}{% endraw %}` 이 에러 메시지를 유발했다.
 
 > Github Desktop이 Git을 관리하기 편한 거 같아 이용했는데, 오류를 찾아주지 않는 것이 조금 아쉬웠다. Git Bash 를 이용해야 하나 고민이 됐다.
 
