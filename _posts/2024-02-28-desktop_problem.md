@@ -27,13 +27,7 @@ categories: Git
 
 ### 해결
 
-```java
-double[][] score = {% raw %}{{3.3,3.5},
+![](/assets/images/20240228/solve.JPG)
 
-          {3.4,4.1}}{% endraw %};
-
-...
-```
-
-다음과 같이 2차원 배열을 선언할 때 다음과 같은 raw tag를 사용하면 오류가 나지 않는다. (앞에 {% raw %} 를 뒤에 {% endraw %} ) 
+다음과 같이 2차원 배열을 선언할 때 다음과 같은 raw tag를 사용하면 오류가 나지 않는다. (앞에 raw를 뒤에 endraw) 
 
