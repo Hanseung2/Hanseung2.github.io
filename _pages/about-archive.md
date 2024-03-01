@@ -1,40 +1,38 @@
 ---
-title : "About"
 permalink: /about/
-layout : single
+layout : default
 author_profile: false
 sidebar_main: true
 ---
 
 
-
-
 <br/>
-<br/>
+
 
 # <center> Profile </center>
 
-<br/>
 
-- Sejong univ.  - Department of Computer Engineering (2019.03 ~ )
+<center>Sejong univ. - Department of Computer Engineering (2019.03 ~ )</center>
 
 
 <br/><br/>
 
 # <center> Recent Interests </center>
 
-- Web Backend
+<center>Web Backend</center>
 
-- Spring
+<center>Spring</center>
 
 <br/><br/>
 
 # <center> Tech Stack </center>
 
-# Familiar
+### <center>Familiar</center>
 
-- C, C#, Python, Unix, HTML, CSS
+<center>C, C#, Python, Unix, HTML, CSS</center>
 
-# Studying
+<br/>
 
-- Spring, Java, Git
+### <center>Studying</center>
+
+<center>Spring, Java, Git</center>
