@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Development Blog"
 title_separator          : "|"
-subtitle                 : "sprout" # site tagline that appears below site title in masthead
+subtitle                 : "Chick" # site tagline that appears below site title in masthead
 name                     : "Han Seung"
 description              : "개발 블로그입니다"
 url                      : "https://Hanseung2.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Han Seung"
   avatar           : "/assets/images/hanseung/hanseung.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I want a Web Backend Developer."
+  bio              : 
   location         : "Seongdong, Seoul"
   email            :
   links:

@@ -1,8 +1,10 @@
 # main links
 main:
+  - title: "🐤"
+    url: /index/
   - title: "About"
     url: /about/
-  - title: "Category"
+  - title: "Posts"
     url: /categories/
   - title: "Search"
     url: /search/
@@ -17,7 +19,7 @@ docs:
       # url: /tags/
 
 counts:
-  - title: "카테고리"
+  - title: "Categories"
     use: true
   - # title: "태그"
     # use: true

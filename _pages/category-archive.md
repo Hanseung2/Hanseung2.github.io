@@ -1,7 +1,9 @@
 ---
-title : "Category"
+title : "Posts"
 layout : categories
 permalink: /categories/
-author_profile: true
-sidebar_main: true
+author_profile: false
+sidebar_main: false
+sidebar:
+          nav: "counts"
 ---
