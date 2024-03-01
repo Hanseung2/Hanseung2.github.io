@@ -8,7 +8,11 @@ sidebar_main: true
 <br/>
 
 
-### 小確行
 
- 소소하지만 스스로 공부한 것들을 정리한 블로그
+<br/>
+<center>1️⃣ 되도록 매일매일 포스팅하기</center>
+
+<center>2️⃣ 현재 공부 중 : Java, Spring, Git</center>
+
+<center>3️⃣ 급하게 생각하지말고 천천히</center>
 
