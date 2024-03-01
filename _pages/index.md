@@ -1,6 +1,6 @@
 ---
 permalink: /index/
-layout : single
+layout : default
 author_profile: true
 sidebar_main: true
 ---
