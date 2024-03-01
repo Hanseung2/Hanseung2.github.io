@@ -14,7 +14,7 @@ sidebar_main: true
 
 <br/>
 
-<center>2️⃣ 현재 공부 중d : Java, Spring, Git</center>
+<center>2️⃣ 현재 공부 중 : Java, Spring, Git</center>
 
 <br/>
 
