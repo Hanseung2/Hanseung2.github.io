@@ -26,6 +26,10 @@ categories: Capstone
 
 <br/>
 
+<hr/>
+
+<br/>
+
 ### 해결 했던 오류들
 
 기본적으로 React와 서버간의 연동에 오류를 해결했다. 
@@ -44,7 +48,7 @@ Chrome 브라우저 검사의 Network 오류를 보니 `CORB 오류`라고 나�
 
 허탈하긴 했지만, CORS 오류가 악명 높은 이유를 조금이나마 느꼈고 많이 배웠다.
 
-
+<br/>
 
 #### 2️⃣ Flask(AI Model)와 React(Frontend) 사이의 통신
 
@@ -89,7 +93,11 @@ station_name = data.get('stationName')
 
 > 처음에는 React에서 axios 함수를 이용해 전달했는데 계속 오류가 나서 fetch를 이용해 해보았다. 차이점은 기회가 있으면 공부해봐야겠다.
 
+<br/>
 
+<hr/>
+
+<br/>
 
 ### 불편했던 점
 
