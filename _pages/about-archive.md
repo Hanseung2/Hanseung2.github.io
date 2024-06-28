@@ -11,7 +11,7 @@ title : About
 ## <center> Profile </center>
 
 
-<center>- Sejong univ. - Department of Computer Engineering (2019.03 ~ )</center>
+<center>- Sejong univ. Department of Computer Engineering (2019.03 ~ )</center>
 <center>- Capstone디자인(산학협력프로젝트) (2024.03 ~ 2024.06)</center>
 <br/><br/>
 <hr/>
