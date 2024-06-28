@@ -2131,7 +2131,7 @@ blockquote.notice--danger {
   display: flex;
   align-items: center;
   min-height: 2em;
-  background: #fff;
+  background: lightcoral;
 }
 .greedy-nav a {
   display: block;
