@@ -71,6 +71,7 @@
   clear: both;
 
   .site-nav {
+    background-color: lightcoral;
     margin-left: 0;
 
     @include breakpoint($small) {
@@ -87,6 +88,7 @@
 }
 
 .masthead__menu-item {
+  background-color: lightcoral;
   display: block;
   list-style-type: none;
   white-space: nowrap;

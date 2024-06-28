@@ -2162,6 +2162,7 @@ blockquote.notice--danger {
   cursor: pointer;
 }
 .greedy-nav .visible-links {
+  
   display: flex;
   justify-content: flex-end;
   flex: 1;
