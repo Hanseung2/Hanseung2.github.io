@@ -47,7 +47,6 @@ title : About
 <br/>
 
 ## <center> Skills </center>
-
 ###### Backend
 - Java
 - Spring Boot
@@ -58,3 +57,9 @@ title : About
 - Git
 - Docker
 - AWS EC2
+
+<hr/>
+<br/>
+
+## <center> Blog </center>
+깔끔한 디자인에도 관심이 있어 Github Blog를 직접 만들어 개인 정리와 경험했던 트러블 슈팅들을 기록하고 있습니다.
