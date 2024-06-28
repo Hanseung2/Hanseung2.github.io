@@ -62,5 +62,5 @@ title : About
 <br/>
 
 ## <center> Blog </center>
-깔끔한 디자인에도 관심이 있어 Github Blog를 직접 만들어 개인 공부와 경험했던 트러블 슈팅들을 기록하고 있습니다.
+깔끔한 디자인에도 관심이 있어 Github Blog를 직접 만들어 개인 공부와 경험했던 트러블 슈팅들을 기록하고 있습니다. <br/>
 [<span style="background-color:#fff5b1">https://hanseung2.github.io</span>](https://hanseung2.github.io/)
