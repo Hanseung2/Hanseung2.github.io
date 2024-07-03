@@ -25,7 +25,7 @@ title : About
 ###### Description
 서울열린데이터광장에서 제공하는 JSON data와 OpenAPI를 이용한 지하철 통합 웹서비스로 지하철 각 역간 소요시간을 AI로 예측해 사용자에게 제공<br/>
 
-> 1. 제공되는 역간 소요시간을 기본 가중치로 Dijkstra Algorithm을 수행해 최단 경로 3가지를 찾아 AI에게 넘겨줌. <br/>
+1. 제공되는 역간 소요시간을 기본 가중치로 Dijkstra Algorithm을 수행해 최단 경로 3가지를 찾아 AI에게 넘겨줌. <br/>
 2. 학습된 모델이 해당 경로에 대한 역간 소요시간을 반환 <br/>
 3. 기존 3가지 경로의 총 소요시간과 예측된 총 소요시간을 비교하여 지연 시간 예측
 <br/>
@@ -62,5 +62,5 @@ title : About
 <br/>
 
 ## <center> Blog </center>
-깔끔한 디자인에도 관심이 있어 Github Blog를 직접 만들어 개인 공부와 경험했던 트러블 슈팅들을 기록하고 있습니다. <br/>
+깔끔하게 직접 블로그를 디자인 해보고 싶어 Jekyll를 이용해 Github blog를 만들어 개인 공부와 경험했던 트러블 슈팅들을 기록하고 있습니다. 매일 공부했던 내용을 기록하고 까먹지 않도록 노력하는 게 목표입니다.<br/>
 [<span style="background-color:#fff5b1">https://hanseung2.github.io</span>](https://hanseung2.github.io/)
