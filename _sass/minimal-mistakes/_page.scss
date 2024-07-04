@@ -141,11 +141,14 @@ body {
   }
 
   :not(pre) > code {
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-    font-size: 0.8em;
-    background: #2f272757;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    font-size: 0.9em;
+    background: #2f27272f;
     border-radius: $border-radius;
+    font-family: 'Pretendard-Regular';
 
     &::before,
     &::after {
