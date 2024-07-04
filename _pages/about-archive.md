@@ -42,6 +42,7 @@ title : About
 
 프로젝트 고민 : [<span style="background-color:#fff5b1">https://hanseung2.github.io/capstone/subway1/</span>](https://hanseung2.github.io/capstone/subway1/)<br/>
 프로젝트 중간 회고 : [<span style="background-color:#fff5b1">https://hanseung2.github.io/capstone/middlesubway/</span>](https://hanseung2.github.io/capstone/middlesubway/)
+프로젝트 마무리 회고 : [<span style="background-color:#fff5b1">https://hanseung2.github.io/capstone/final/</span>](https://hanseung2.github.io/capstone/final/)
 
 <hr/>
 <br/>
