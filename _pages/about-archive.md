@@ -31,7 +31,7 @@ title : About
 3. 기존 3가지 경로의 총 소요시간과 예측된 총 소요시간을 비교하여 지연 시간 예측
 <br/>
 
-###### What I Do
+###### What did I do
 
 ✔ Dockerfile을 작성해 Flask(AI), Spring(BE), React(FE), MySQL(DB)을 각각 컨테이너화<br/>
 ✔ 각 서버를 Docker network를 통해 소통하게 하고, Docker compose를 이용해 컨테이너들을 한 번에 빌드하여 로컬 서버(8080 포트)에서 동작하도록 함<br/>
@@ -50,15 +50,21 @@ title : About
 
 ## <center> Skills </center>
 ###### Backend
-- Java
-- Spring Boot
-- Gradle
+- Spring Boot(Java)를 이용한 프로젝트 경험이 있습니다.
+- Controller의 PostMapping을 통해 React와 Flask를 연동할 수 있고 객체를 서비스 결과물로 반환하여 사용자에게 제공할 수 있습니다.
+- Gradle Wrapper를 이용해 빌드할 수 있습니다.
 <br/>
 
 ###### DevOps
-- Git
-- Docker
-- AWS EC2
+- Git을 통한 버전 관리가 가능합니다.
+- Spring Boot, React, Flask, MySQL 의 Dockerfile 작성과 docker-compose.yml을 작성할 수 있습니다.
+- AWS EC2 서버를 PuTTY로 접속하고 이용할 수 있습니다.
+<br/>
+
+###### etc
+- 상대를 배려하면서 말하고자 하지만, 내 생각과 다를 땐 확실히 표현하고자 합니다.
+- 팀원들과 문제를 같이 해결하고 성장하고자 합니다.
+- 오류가 발생하면 끝까지 해결하려고 합니다.
 
 <hr/>
 <br/>
