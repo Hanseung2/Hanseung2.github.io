@@ -22,7 +22,7 @@ title : About
 
 [<span style="background-color:#fff5b1">🔔Poster link</span>](/assets/images/20240627/Capstone.jpg)
 #### 서울시 실시간 지하철 예측 서비스(Web) 
-![](/assets/images/route.jpg)
+![](/assets/images/Route.jpg)
 ###### Description
 서울열린데이터광장에서 제공하는 JSON data와 OpenAPI를 이용한 지하철 통합 웹서비스로 지하철 각 역간 소요시간을 AI로 예측해 사용자에게 제공<br/>
 
