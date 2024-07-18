@@ -15,7 +15,7 @@ sidebar_main: true
 
 <br/>
 
-<center>2️⃣ 최근 관심 스택 : JPA, Kotlin </center>
+<center>2️⃣ 진행중인 프로젝트 : 공부 관련 매칭 앱을 만들어보자 ! </center>
 
 <br/>
 
