@@ -51,9 +51,10 @@ title : About
 
 ## <center> Skills </center>
 ###### Backend
-- Spring Boot(Java)를 이용한 프로젝트 경험이 있습니다.
+- ERD 설계와 API 명세서를 작성할 수 있습니다.
 - Controller의 PostMapping을 통해 React와 Flask를 연동할 수 있고 객체를 서비스 결과물로 반환하여 사용자에게 제공할 수 있습니다.
-- Gradle Wrapper를 이용해 빌드할 수 있습니다.
+- JPA와 RESTful API를 설계하고 사용할 수 있습니다.
+- Swagger을 통한 API 문서화가 가능합니다.
 <br/>
 
 ###### DevOps
