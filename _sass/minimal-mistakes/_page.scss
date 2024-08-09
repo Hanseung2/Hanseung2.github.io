@@ -113,13 +113,13 @@ body {
   p,
   li,
   dl {
-    font-size: 0.7em;
+    font-size: 0.8em;
     font-family: 'Pretendard-Regular';
   }
 
   /* paragraph indents */
   p {
-    margin: 0 0 1em;
+    margin: 0 0 0.8em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
