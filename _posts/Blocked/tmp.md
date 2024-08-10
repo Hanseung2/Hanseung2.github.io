@@ -4,7 +4,7 @@ title:  "[실시간 지하철 지연 예측 서비스] 2. 중간 발표 후 회�
 categories: Capstone
 
 sidebar_main: true
-
+published: false
 
 
 
