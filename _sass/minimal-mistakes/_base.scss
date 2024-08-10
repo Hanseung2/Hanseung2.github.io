@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2em 0 0.5em;
+  margin: 1em 0 0.2em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
@@ -111,7 +111,7 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-  margin: 2em 1em 2em 0;
+  margin: 1em 1em 1em 0;
   padding-left: 1em;
   padding-right: 1em;
   border-left: 0.25em solid $primary-color;
