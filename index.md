@@ -10,14 +10,11 @@ sidebar_main: false
 
 
 <br/>
-<center>1️⃣ 매일매일 공부기록 남기기</center>
+<center>내 생각과 공부했던 내용을 남기는 블로그</center>
 
 <br/>
 
-<center>2️⃣ 진행중인 프로젝트 : 힛더북</center>
-
-<br/>
-
-<center>3️⃣ 급하게 생각하지말고 천천히</center>
+<center>💡 진행중인 프로젝트 : 힛더북</center>
+<center><https://hanseung2.github.io/categories/#appproject></center>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
