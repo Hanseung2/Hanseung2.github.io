@@ -15,10 +15,8 @@ sidebar_main: false
 
 <br/>
 
-<center>💡 진행중인 프로젝트 : 힛더북 
+<p align="center">💡 진행중인 프로젝트 : 힛더북</p>
 
-<https://hanseung2.github.io/categories/#appproject>
-
-</center>
+<p align="center"><a href="https://hanseung2.github.io/categories/#appproject">https://hanseung2.github.io/categories/#appproject</a></p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
