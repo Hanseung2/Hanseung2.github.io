@@ -29,7 +29,8 @@ title : About
 ## <center> Skills </center>
 ###### Backend
 - ERD 설계와 Swagger를 통한 API 문서화가 가능합니다.
-- JPA와 RESTful API를 설계하고 사용할 수 있습니다.
+- Spring MVC 패턴을 기반으로 한 RESTful API 설계가 가능합니다.
+- JPA를 활용해 리포지토리 계층을 구축하고, 효율적으로 데이터에 접근할 수 있습니다.
 <br/>
 
 ###### DevOps
