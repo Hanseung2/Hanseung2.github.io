@@ -7,60 +7,35 @@ title : About
 
 <br/>
 
-
 ## <center> Profile </center>
 
 
-<center>- Sejong univ. Department of Computer Engineering (2019.03 ~ )</center>
-<center>- Capstone디자인(산학협력프로젝트) (2024.03 ~ 2024.06)</center>
-<center>- 힛더북 App 프로젝트 (2024.07 ~ )</center>
-<br/><br/>
-<hr/>
+- Sejong univ. Department of Computer Engineering (2019.03 ~ )
+- Capstone디자인(산학협력프로젝트) (2024.03 ~ 2024.06)
+- 힛더북 App 프로젝트 (2024.07 ~ )
+- (주)블루솔루션즈 현장실습 (2024.09 ~)
 
 <br/>
-
-## <center> Project </center>
-
-[<span style="background-color:#fff5b1">🔔Poster link</span>](/assets/images/20240627/Capstone.jpg)
-#### 서울시 실시간 지하철 예측 서비스(Web) 
-![](/assets/images/20240627/route.jpg)
-###### Description
-서울열린데이터광장에서 제공하는 JSON data와 OpenAPI를 이용한 지하철 통합 웹서비스로 지하철 각 역간 소요시간을 AI로 예측해 사용자에게 제공<br/>
-
-1. 제공되는 역간 소요시간을 기본 가중치로 Dijkstra Algorithm을 수행해 최단 경로 3가지를 찾아 AI에게 넘겨줌. <br/>
-2. 학습된 모델이 해당 경로에 대한 역간 소요시간을 반환 <br/>
-3. 기존 3가지 경로의 총 소요시간과 예측된 총 소요시간을 비교하여 지연 시간 예측
-<br/>
-
-###### What did I do
-
-✔ Dockerfile을 작성해 Flask(AI), Spring(BE), React(FE), MySQL(DB)을 각각 컨테이너화<br/>
-✔ 각 서버를 Docker network를 통해 소통하게 하고, Docker compose를 이용해 컨테이너들을 한 번에 빌드하여 로컬 서버(8080 포트)에서 동작하도록 함<br/>
-✔ 다양한 OpenAPI 호출과 React, Spring, Flask 간의 연동 (POST, fetch(), REST API) <br/>
-✔ 지하철 역을 그래프로 만들어 Dijkstra Algorithm 을 이용한 출발지와 도착지 간의 경로 찾기 알고리즘 구현
-<br/>
-
-###### Review
-
-프로젝트 고민 : [<span style="background-color:#fff5b1">https://hanseung2.github.io/capstone/subway1/</span>](https://hanseung2.github.io/capstone/subway1/)<br/>
-프로젝트 중간 회고 : [<span style="background-color:#fff5b1">https://hanseung2.github.io/capstone/middlesubway/</span>](https://hanseung2.github.io/capstone/middlesubway/)<br/>
-프로젝트 마무리 회고 : [<span style="background-color:#fff5b1">https://hanseung2.github.io/capstone/final/</span>](https://hanseung2.github.io/capstone/final/)
-
 <hr/>
 <br/>
+
+## <center> Blog </center>
+깔끔하게 직접 블로그를 디자인 해보고 싶어 Jekyll Themes를 이용해 Github blog를 만들어 개인 공부와 경험했던 트러블 슈팅들을 기록하고 있습니다. 공부했던 내용을 기록하고 까먹지 않도록 노력하는 게 목표입니다.<br/>
+
+<br/>
+<hr/>
+<br>
 
 ## <center> Skills </center>
 ###### Backend
-- ERD 설계와 API 명세서를 작성할 수 있습니다.
-- Controller의 PostMapping을 통해 React와 Flask를 연동할 수 있고 객체를 서비스 결과물로 반환하여 사용자에게 제공할 수 있습니다.
+- ERD 설계와 Swagger를 통한 API 문서화가 가능합니다.
 - JPA와 RESTful API를 설계하고 사용할 수 있습니다.
-- Swagger을 통한 API 문서화가 가능합니다.
 <br/>
 
 ###### DevOps
 - Git을 통한 버전 관리가 가능합니다.
-- Spring Boot, React, Flask, MySQL 의 Dockerfile 작성과 docker-compose.yml을 작성할 수 있습니다.
-- AWS EC2 서버를 PuTTY로 접속하고 이용할 수 있습니다.
+- Spring Boot, React, Flask, MySQL등을 Docker와 Docker Compose로 관리할 수 있습니다.
+- AWS EC2 서버를 PuTTY를 이용해 사용할 수 있습니다.
 <br/>
 
 ###### etc
@@ -68,9 +43,33 @@ title : About
 - 팀원들과 문제를 같이 해결하고 성장하고자 합니다.
 - 오류가 발생하면 끝까지 해결하려고 합니다.
 
+<br/>
 <hr/>
 <br/>
 
-## <center> Blog </center>
-깔끔하게 직접 블로그를 디자인 해보고 싶어 Jekyll를 이용해 Github blog를 만들어 개인 공부와 경험했던 트러블 슈팅들을 기록하고 있습니다. 공부했던 내용을 기록하고 까먹지 않도록 노력하는 게 목표입니다.<br/>
-[<span style="background-color:#fff5b1">https://hanseung2.github.io</span>](https://hanseung2.github.io/)
+## <center> Project </center>
+
+[<span style="background-color:#fff5b1">🔔Poster link</span>](/assets/images/20240627/Capstone.jpg)
+#### 서울시 실시간 지하철 예측 서비스(Web) 
+###### Description
+서울열린데이터광장에서 제공하는 JSON data와 OpenAPI를 이용한 지하철 통합 웹서비스로 각 지하철역에 대한 정보들을 제공하고, 서울교통공사가 제공하는 역간 소요시간으로 경로찾기를 진행함과 동시에 AI로 예측해 사용자에게 제공한다.
+
+###### What did I do
+
+✔ Dockerfile로 Flask(AI), Spring(BE), React(FE), MySQL(DB)을 각각 컨테이너화<br/>
+✔ 각 서버를 Docker network와 Docker compose로 관리<br/>
+✔ 다양한 OpenAPI 호출과 React, Spring, Flask 간의 연동<br/>
+✔ 지하철 역들을 그래프로 만들어 Dijkstra Algorithm 을 이용한 출발지와 도착지 간의 경로 찾기 서비스 구현
+<br/>
+
+###### Review
+
+[<span style="background-color:#fff5b1">Capstone 회고</span>](https://hanseung2.github.io/categories/#capstone)
+
+<br/>
+<hr/>
+
+#### 힛더북(App) 
+
+###### Description
+플래너, 타이머, 미션 기능이 있는 스터디 앱으로서 레벨을 올리고 엠블럼을 수집하며 재밌게 공부를 할 수 있게 한다.<br/>
