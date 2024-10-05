@@ -5,17 +5,30 @@ title : About
 ---
 
 
+## 안녕하세요, 신입 개발자 손한승입니다.
+목표를 위해, 문제 해결을 위해 소통과 협력을 통해 풀어가는 것을 좋아하며 아이디어를 공유해 함께 성장해 나가고자 합니다. 
+
+## <center> Field training </center>
+
+#### (주)블루솔루션즈
+
+##### SW Robot
+규칙적 반복적 비즈니스 업무 프로레스를 자동화하는 OpenRPA 기반 소프트웨어 로봇으로서 노동생산성을 제고하고 효율성을 개선합니다.
+
+###### My Role
+- Chrome Extension 유지보수 (JavaScript)
+- Native Messaging을 이용한 통신
+<br/>
 <br/>
 
-## <center> Profile </center>
+##### 치매 조기 진단 서비스
+음성기반 인공지능 치매 조기 진단 서비스입니다.
 
+###### My Role
+- 인공지능 모델 기획, 서비스 기획
+- MFCC (Mel-Frequency Cepstral Coefficient) + CNN 모델 적용
+- 앱 서비스 개발
 
-- Sejong univ. Department of Computer Engineering (2019.03 ~ )
-- Capstone디자인(산학협력프로젝트) (2024.03 ~ 2024.06)
-- 힛더북 App 프로젝트 (2024.07 ~ )
-- (주)블루솔루션즈 현장실습 (2024.09 ~)
-
-<br/>
 <hr/>
 <br/>
 
@@ -52,15 +65,13 @@ title : About
 
 [<span style="background-color:#fff5b1">🔔Poster link</span>](/assets/images/20240627/Capstone.jpg)
 #### 서울시 실시간 지하철 예측 서비스(Web) 
-###### Description
-서울열린데이터광장에서 제공하는 JSON data와 OpenAPI를 이용한 지하철 통합 웹서비스로 각 지하철역에 대한 정보들을 제공하고, 서울교통공사가 제공하는 역간 소요시간으로 경로찾기를 진행함과 동시에 AI로 예측해 사용자에게 제공한다.
+서울열린데이터광장에서 제공하는 JSON data와 OpenAPI를 이용한 지하철 통합 웹서비스로 각 지하철역에 대한 정보와 경로찾기를 진행함과 동시에 AI로 예측된 소요시간을 사용자에게 제공한다.
 
-###### What did I do
+###### My Role
 
-✔ Dockerfile로 Flask(AI), Spring(BE), React(FE), MySQL(DB)을 각각 컨테이너화<br/>
-✔ 각 서버를 Docker network와 Docker compose로 관리<br/>
-✔ 다양한 OpenAPI 호출과 React, Spring, Flask 간의 연동<br/>
-✔ 지하철 역들을 그래프로 만들어 Dijkstra Algorithm 을 이용한 출발지와 도착지 간의 경로 찾기 서비스 구현
+✔ Docker로 Flask(AI), Spring(BE), React(FE), MySQL(DB)을 컨테이너화<br/>
+✔ 각 서버를 Docker network와 Docker compose로 관리 및 연동 <br/>
+✔ 다양한 OpenAPI 호출과 Dijkstra Algorithm 을 이용한 경로 찾기 서비스 구현
 <br/>
 
 ###### Review
@@ -73,9 +84,9 @@ title : About
 #### 힛더북(App) 
 
 ###### Description
-플래너, 타이머, 미션 기능이 있는 스터디 앱으로서 레벨을 올리고 엠블럼을 수집하며 재밌게 공부를 할 수 있게 한다.
+플래너, 타이머, 미션 기능이 있는 스터디 앱으로서 레벨을 올리고 엠블럼을 수집하며 재밌게 공부를 할 수 있게 함.
 
-###### What did I do
+###### My Role
 
 ✔ 도메인형 패키지 구조를 선택, 각 도메인별 MVC 패턴을 기반으로 한 RESTful API 설계 및 개발<br/>
 ✔ 엔티티(Entity), 서비스(Service), 컨트롤러(Controller), DTO를 설계하고 서비스 코드의 부담을 줄이기 위해 Helper를 두어 중요하지 않은 비즈니스 로직을 처리하도록 함<br/>
