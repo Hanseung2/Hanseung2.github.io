@@ -4,9 +4,11 @@ layout : single
 title : About
 ---
 
+<br/>
 
 ## 안녕하세요, 신입 개발자 손한승입니다.
-목표를 위해, 문제 해결을 위해 소통과 협력을 통해 풀어가는 것을 좋아하며 아이디어를 공유해 함께 성장해 나가고자 합니다. 
+✋ 목표를 위해, 문제 해결을 위해 소통과 협력을 통해 풀어가는 것을 좋아하며 아이디어를 공유해 함께 성장해 나가고자 합니다. 
+<br/>
 
 ## <center> Field training </center>
 
@@ -18,6 +20,7 @@ title : About
 ###### My Role
 - Chrome Extension 유지보수 (JavaScript)
 - Native Messaging을 이용한 통신
+<br/>
 <br/>
 <br/>
 
