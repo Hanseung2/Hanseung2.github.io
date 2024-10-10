@@ -8,29 +8,30 @@ title : About
 
 ## 안녕하세요, 신입 개발자 손한승입니다.
 ✋ 목표를 위해, 문제 해결을 위해 소통과 협력을 통해 풀어가는 것을 좋아하며 아이디어를 공유해 함께 성장해 나가고자 합니다. 
-<br/>
+<br/><br/>
 
 ## <center> Field training </center>
 
 #### (주)블루솔루션즈
 
-##### SW Robot
+##### 🔵 SW Robot
 규칙적 반복적 비즈니스 업무 프로레스를 자동화하는 OpenRPA 기반 소프트웨어 로봇으로서 노동생산성을 제고하고 효율성을 개선합니다.
 
 ###### My Role
 - Chrome Extension 유지보수 (JavaScript)
-- Native Messaging을 이용한 통신
+- 닷넷(.NET) 어플리케이션과 Chrome Extension 간 Native Messaging을 이용한 통신
 <br/>
 <br/>
 <br/>
 
-##### 치매 조기 진단 서비스
+##### 🔵 치매 조기 진단 서비스
 음성기반 인공지능 치매 조기 진단 서비스입니다.
 
 ###### My Role
-- 인공지능 모델 기획, 서비스 기획
+- 인공지능 모델 & 서비스 기획
+- Data Augmentation
 - MFCC (Mel-Frequency Cepstral Coefficient) + CNN 모델 적용
-- 앱 서비스 개발
+- 앱 서비스 구축 예정 (Spring)
 
 <hr/>
 <br/>
