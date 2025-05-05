@@ -272,7 +272,7 @@ defaults:
       related: true
       show_date: true
       toc: false
-      toc_sticky: true
+      toc_sticky: false
       toc_label: 목차
       author_profile: false
       sidebar:
