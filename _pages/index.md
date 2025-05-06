@@ -16,8 +16,8 @@ sidebar_main: false
 <br/>
 <br/>
 <br/>
-<p align="center">💡 ~ing Project: 힛더북</p>
+<p align="center">💡 ~ing Project: 개인 카페 서비스, 군창업경진대회 모티브</p>
 
-<p align="center"><a href="https://hanseung2.github.io/categories/#appproject">https://hanseung2.github.io/categories/#appproject</a></p>
+<p align="center"><a href="https://github.com/QuartetTeam/Cafe_BE">https://github.com/QuartetTeam/Cafe_BE</a></p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
