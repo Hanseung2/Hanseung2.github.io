@@ -4,12 +4,8 @@ author_profile: true
 sidebar_main: false
 ---
 
-
 <br/>
 
-
-
-<br/>
 <center>💭 내 생각과 공부했던 내용을 남기는 개발블로그</center>
 
 <br/>
@@ -19,4 +15,16 @@ sidebar_main: false
 
 <p align="center"><a href="https://github.com/QuartetTeam/Cafe_BE">https://github.com/QuartetTeam/Cafe_BE</a></p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+<hr/>
+
+<center>📝 최근 포스트</center>
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small> - {{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>

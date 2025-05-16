@@ -19,7 +19,7 @@ sidebar_main: false
 <br/>
 <hr/>
 
-## 📝 최근 포스트
+<center>📝 최근 포스트</center>
 
 <ul>
   {% for post in site.posts limit:5 %}
